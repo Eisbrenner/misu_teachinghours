@@ -2,4 +2,4 @@
 
 Dependencies: `python`, `jupyter`, `pandas`
 
-Requires sheet from timeedit, go to [https://schema.su.se/employee/index](https://schema.su.se/employee/index) and clock on `my schedule`.
+Requires sheet from timeedit, go to [https://schema.su.se/employee/index](https://schema.su.se/employee/index) and click on `my schedule`.
